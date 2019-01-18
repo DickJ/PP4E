@@ -1,0 +1,88 @@
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye
+Hello stream world
+Enter a number>2 squared is 4
+Enter a number>3 squared is 9
+Enter a number>5 squared is 25
+Enter a number>22 squared is 484
+Enter a number>866 squared is 749956
+Enter a number>132 squared is 17424
+Enter a number>12 squared is 144
+Enter a number>678 squared is 459684
+Enter a number>34235646723436567 squared is 1172079506571952945895030472745489
+Enter a number>Bye

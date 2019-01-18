@@ -1,0 +1,16 @@
+(dp0
+S'job'
+p1
+S'hdw'
+p2
+sS'pay'
+p3
+I40000
+sS'age'
+p4
+I42
+sS'name'
+p5
+S'Sue Jones'
+p6
+s.
